@@ -1,0 +1,2 @@
+# gof-creational-patterns-python
+
